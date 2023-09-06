@@ -3,6 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import mpld3
 
+#run this separately
+
 api_key = '742c6514cbef4e8a9aec2fec73ef6aeb'
 
 
